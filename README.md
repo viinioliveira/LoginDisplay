@@ -4,9 +4,9 @@
 
 https://displaylogin.netlify.app
 
-**Técnologias usadas
+**Técnologias usadas**
  - HTML 5
  - CSS3 {
- flexbox, web-kit boxshadow
+ flexbox, web-kit-boxshadow
  }
 
